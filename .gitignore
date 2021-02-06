@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Ignore API key files
-*/api_keys.py
+Weather/api_keys.py
